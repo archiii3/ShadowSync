@@ -3,7 +3,15 @@
 A lightweight and intelligent file synchronization system written in Python.
 
 ## Features
+## Example Python Code
 
+```python
+import os
+import time
+import shutil
+
+SOURCE_FOLDER = "source"
+BACKUP_FOLDER = "backup"
 * Real-time folder monitoring
 * Automatic file backup with version history
 * Cross-platform support (Windows, Linux, macOS)
