@@ -26,7 +26,8 @@ BACKUP_FOLDER = "backup"
 import os
 import time
 import shutil
-
+* Cross-platform support (Windows, Linux, macOS)
+* Remote synchronization via SSH
 SOURCE_FOLDER = "source"
 BACKUP_FOLDER = "backup"
 
